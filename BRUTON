@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua-sources/Kkkkkk/refs/heads/main/V2.7.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua-sources/Kkkkkk/refs/heads/main/V2.9.lua"))()
