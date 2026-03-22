@@ -75,15 +75,15 @@ local vu7 = {
 		},
 		AzureGlow = {
 			["Color Hub 1"] = ColorSequence.new({
-				ColorSequenceKeypoint.new(0, Color3.fromRGB(23, 10, 163)),
-				ColorSequenceKeypoint.new(0.5, Color3.fromRGB(66, 76, 189)),
-				ColorSequenceKeypoint.new(1, Color3.fromRGB(21, 166, 214)),
+				ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 106, 178)),
+				ColorSequenceKeypoint.new(0.5, Color3.fromRGB(0, 163, 226)),
+				ColorSequenceKeypoint.new(1, Color3.fromRGB(36, 199, 255)),
 			}),
-			["Color Hub 2"] = Color3.fromRGB(30, 19, 97),
-			["Color Stroke"] = Color3.fromRGB(45, 45, 45),
-			["Color Theme"] = Color3.fromRGB(255, 215, 0),
+			["Color Hub 2"] = Color3.fromRGB(0, 5, 20),
+			["Color Stroke"] = Color3.fromRGB(15, 60, 90),
+			["Color Theme"] = Color3.fromRGB(0, 204, 255),
 			["Color Text"] = Color3.fromRGB(255, 255, 255),
-			["Color Dark Text"] = Color3.fromRGB(180, 180, 180),
+			["Color Dark Text"] = Color3.fromRGB(130, 190, 220),
 		},
 		MidnightGold = {
 			["Color Hub 1"] = ColorSequence.new({
